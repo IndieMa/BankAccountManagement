@@ -1,0 +1,11 @@
+John|Murphy|1234567a|Deposit|Yes|10000.0|5%
+Sophie|Kehoe|1234765b|Current|No|5000.0|2%
+Martha|Hogan|3214567c|Current|Yes|250.0|2%
+Amanda|Lynch|9987654d|Deposit|Yes|21000.0|5%
+Tomas|Gricius|7658439e|Current|No|175.0|2%
+Zita|Gedgaudiene|0987654f|Deposit|No|5640.0|2%
+Arturas|Macernis|7765543g|Deposit|Yes|12460.0|5%
+Vicky|Ryan|4453362h|Current|Yes|9999.0|2%
+Ondie|Bonks|12345E|Deposit|Yes|20.0|2%
+Sean|Bonks|12345H|Deposit|Yes|20.0|2%
+Rosie|Posie|54321E|Current|No|1000000.0|5%
